@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknerve_dns_github_io=self.webpackChunknerve_dns_github_io||[]).push([[946],{1531:s=>{s.exports=JSON.parse('{"label":"dns","permalink":"/blog/tags/dns","allTagsPath":"/blog/tags","count":1}')}}]);
